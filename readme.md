@@ -1,5 +1,5 @@
 # Python Foundations
 
-## Collation of all IBM Data Science foundation courses
+## IBM Python foundation courses for Data Science and Machine Learning.
 
 Contents
